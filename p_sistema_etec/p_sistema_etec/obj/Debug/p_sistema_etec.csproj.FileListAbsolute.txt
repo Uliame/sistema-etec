@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\bin\Debug\p_sistema_etec.exe.config
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\bin\Debug\p_sistema_etec.exe
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\bin\Debug\p_sistema_etec.pdb
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.Form1.resources
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.Properties.Resources.resources
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.csproj.GenerateResource.Cache
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.exe
+C:\Users\Manager\Desktop\p_sistema_etec\p_sistema_etec\obj\Debug\p_sistema_etec.pdb
